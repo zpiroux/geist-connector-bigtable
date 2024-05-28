@@ -1,4 +1,4 @@
-# GEIST bigtable Connector
+# GEIST Bigtable Connector
 <div>
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/zpiroux/geist-connector-bigtable)](https://goreportcard.com/report/github.com/zpiroux/geist-connector-bigtable)
